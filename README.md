@@ -1,6 +1,4 @@
-# Criar o conteúdo do README.md com base na descrição anterior
 
-readme_content = """
 # 📊 Análise da Demonstração do Resultado (DRE) – Power BI
 
 Este relatório apresenta a Demonstração do Resultado (DRE) com filtros por ano e mês, trazendo visões detalhadas de Receita Bruta, Receita Líquida, Custos de Produção, EBITDA e Lucro/Prejuízo, além de comparações mensais e por grupo.
