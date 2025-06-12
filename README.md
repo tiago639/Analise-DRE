@@ -96,6 +96,7 @@ DRE/
 │
 ├── README.md
 ├── DRE.pbix
+├── FatosDRE
 └── images/
 ├── 01_tabela_dre.png
 ├── 02_receita_liquida_mensal.png
