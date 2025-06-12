@@ -92,14 +92,17 @@ O relatório permite uma análise clara da performance financeira da empresa ao 
 
 ## 📁 Estrutura de Pastas
 
+```
 DRE/
 │
 ├── README.md
 ├── DRE.pbix
 ├── FatosDRE
 └── images/
-├── 01_tabela_dre.png
-├── 02_receita_liquida_mensal.png
-├── 03_lucro_trimestre.png
-├── 04_valor_dre_grupo.png
-└── 05_receita_margem_ebitda.png
+    ├── 01_tabela_dre.png
+    ├── 02_receita_liquida_mensal.png
+    ├── 03_lucro_trimestre.png
+    ├── 04_valor_dre_grupo.png
+    └── 05_receita_margem_ebitda.png
+```
+
