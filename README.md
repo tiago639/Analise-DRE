@@ -104,5 +104,6 @@ DRE/
     ├── 03_lucro_trimestre.png
     ├── 04_valor_dre_grupo.png
     └── 05_receita_margem_ebitda.png
+    └── imagem.png
 ```
 
