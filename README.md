@@ -16,7 +16,7 @@ O painel possui duas abas principais:
 ![Tabela DRE](./images/01_tabela_dre.png)
 
 **Descrição:**  
-Tabela completa da DRE com detalhamento por grupo e subgrupo, contendo valores mensais, variações percentuais (AV/AH) e totais. Os principais KPIs acima (Receita Bruta, Receita Líquida, EBITA, Lucro/Prejuízo) fornecem um resumo executivo.
+Tabela completa da DRE com detalhamento por grupo e subgrupo, apresentando valores mensais, variações percentuais (AV/AH) e totais. Os KPIs superiores (Receita Bruta, Receita Líquida, EBITDA e Lucro/Prejuízo) fornecem uma visão executiva consolidada.
 
 **Análise:**  
 - A Receita Bruta mensal foi de R$180.239 mil em jan/21 e variou ao longo do ano.
@@ -106,4 +106,12 @@ DRE/
     └── 05_receita_margem_ebitda.png
     └── imagem.png
 ```
+## 📄 Licença
 
+Este projeto está licenciado sob a **Licença MIT** — veja o arquivo [LICENSE](LICENSE) para mais informações.
+
+---
+
+## 👤 Autor
+
+**Tiago Fonseca**
